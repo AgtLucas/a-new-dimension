@@ -5,6 +5,7 @@
   "main": "index.js",
   "dependencies": {
     "ampersand-app": "^1.0.4",
+    "ampersand-model": "^7.0.0",
     "ampersand-router": "^3.0.2",
     "ampersand-state": "^5.0.1",
     "ampersand-view": "^10.0.0",
