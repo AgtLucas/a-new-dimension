@@ -1,0 +1,21 @@
+{
+  "name": "a-new-dimension",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AgtLucas/a-new-dimension.git"
+  },
+  "author": "Lucas",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/AgtLucas/a-new-dimension/issues"
+  },
+  "homepage": "https://github.com/AgtLucas/a-new-dimension#readme"
+}
