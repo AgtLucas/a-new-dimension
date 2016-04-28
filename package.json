@@ -4,6 +4,9 @@
   "description": "",
   "main": "index.js",
   "dependencies": {
+    "ampersand-app": "^1.0.4",
+    "ampersand-router": "^3.0.2",
+    "ampersand-view": "^10.0.0",
     "hjs-webpack": "^8.1.0",
     "react": "^15.0.1",
     "react-dom": "^15.0.1"
